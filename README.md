@@ -1,2 +1,2 @@
 # clean-url
-Clean the URL with Javascript using regular expressions of empty parameters/variables.
+Clean the URL string and remove empty parameters/variables using regular expressions in Javascript.
